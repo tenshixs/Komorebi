@@ -1,0 +1,35 @@
+2025-03-17 01:48:26 INFO log.py:21: Yasb v1.6.5
+2025-03-17 01:48:26 INFO config.py:58: Created default config file at C:\Users\Tenshi\.config\yasb\config.yaml
+2025-03-17 01:48:26 INFO config.py:72: Created default stylesheet at C:\Users\Tenshi\.config\yasb\styles.css
+2025-03-17 01:48:27 DEBUG win32.py:55: Looking up time zone info from registry
+2025-03-17 01:48:29 INFO weather.py:367: Fetched new weather data at 2025-03-17 01:48:29.695597
+2025-03-17 01:48:29 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-03-17 01:48:30 INFO app_bar.py:103: Bar Created on Screen: 2270W [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-03-17 01:48:31 INFO event_listener.py:52: Created named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:48:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:48:31 INFO watcher.py:39: Created file watcher for path C:\Users\Tenshi\.config\yasb
+2025-03-17 01:48:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-03-17 01:48:31 DEBUG _windows.py:192: Thread started
+2025-03-17 01:48:31 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:50:41 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'O pipe foi finalizado.')
+2025-03-17 01:50:41 INFO event_listener.py:93: Attempting to reconnect...
+2025-03-17 01:50:46 INFO event_listener.py:52: Created named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:50:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:50:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:56:44 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'O pipe foi finalizado.')
+2025-03-17 01:56:44 INFO event_listener.py:93: Attempting to reconnect...
+2025-03-17 01:56:49 INFO event_listener.py:52: Created named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:56:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:56:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:57:05 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'O pipe foi finalizado.')
+2025-03-17 01:57:05 INFO event_listener.py:93: Attempting to reconnect...
+2025-03-17 01:57:10 INFO event_listener.py:52: Created named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:57:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:57:11 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 01:58:29 INFO weather.py:367: Fetched new weather data at 2025-03-17 01:58:29.711803
+2025-03-17 02:01:29 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'O pipe foi finalizado.')
+2025-03-17 02:01:29 INFO event_listener.py:93: Attempting to reconnect...
+2025-03-17 02:01:34 INFO event_listener.py:52: Created named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 02:01:34 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-136df967-02eb-11f0-b25c-e89c255eead4
+2025-03-17 02:01:35 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-03-17 02:08:29 INFO weather.py:367: Fetched new weather data at 2025-03-17 02:08:29.725414
