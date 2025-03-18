@@ -1,0 +1,9 @@
+Set-ItemProperty 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem' -Name 'LongPathsEnabled' -Value 1
+winget install LGUG2Z.komorebi
+winget install LGUG2Z.whkd
+winget upgrade LGUG2Z.komorebi
+komorebic start --whkd
+komorebic quickstart
+komorebic start --whkd
+komorebic.exe enable-autostart --whkd
+Yasb
